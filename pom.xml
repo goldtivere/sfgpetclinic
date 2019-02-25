@@ -38,7 +38,8 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/goldtivere/sfgpetclinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:goldtivere/sfgpetclinic.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
