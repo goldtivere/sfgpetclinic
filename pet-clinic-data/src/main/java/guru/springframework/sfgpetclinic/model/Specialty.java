@@ -9,7 +9,7 @@ import javax.persistence.Table;
 public class Specialty extends BaseEntity {
     private String description;
 
-    @Column(name = "description")
+    @Column(name = "description`")
     public String getDescription() {
         return description;
     }
